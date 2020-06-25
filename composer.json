@@ -2,7 +2,7 @@
     "name": "dgdevpl/random-string-generator",
     "description": "Random string generator package",
     "type": "library",
-    "version": "1.0.3",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
@@ -21,7 +21,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "^1.*"
+            "dev-master": "1.0.0-dev"
         }
     }
 }
