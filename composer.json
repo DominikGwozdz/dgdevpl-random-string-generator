@@ -2,6 +2,7 @@
     "name": "dgdevpl/dgdevplgenerator",
     "description": "Random string generator package",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Dominik Gwóźdź",
