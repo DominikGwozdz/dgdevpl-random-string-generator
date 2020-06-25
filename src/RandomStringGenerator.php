@@ -1,6 +1,6 @@
 <?php
 
-namespace dgdevplgenerator;
+namespace dgdevpl\randomstringgenerator;
 
 class RandomStringGenerator
 {
