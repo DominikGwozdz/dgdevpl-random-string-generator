@@ -1,5 +1,5 @@
 {
-    "name": "dgdevpl/dgdevplgenerator",
+    "name": "dgdevpl/random-string-generator",
     "description": "Random string generator package",
     "type": "library",
     "version": "1.0.0",
@@ -10,11 +10,13 @@
             "email": "dwgwozdz@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "dgdevplgenerator\\": "src/"
+            "dgdevpl\\randomstringgenerator\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
