@@ -10,13 +10,21 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload-dev": {
+        "psr-4": {
+            "Dgdevpl\\Tests\\": "tests/"
+        }
+    },
     "autoload": {
         "psr-4": {
-            "dgdevpl\\randomstringgenerator\\": "src/"
+            "Dgdevpl\\RandomStringGenerator\\": "src/"
         }
     },
     "require": {
         "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
     },
     "extra": {
         "branch-alias": {
